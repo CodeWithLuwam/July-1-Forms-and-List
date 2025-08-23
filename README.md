@@ -50,13 +50,13 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 ### A) List Control Menu (hamburger)
 
 1. Open any list (e.g., **Incidents**).
-2. Click the **three horizontal lines** (hamburger) at the top left of the list **or** right‑click the **gray header**.
+2. Click the **three horizontal lines**, **List Control Menu** (hamburger) at the top left of the list **or** right‑click the **gray header**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20Control%20Menu%20(hamburger).png?raw=true) ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Gray%20Header.png?raw=true)
 3. Explore key sections: **View**, **Filters**, **Group By**, etc.
 
    * **View**: switch between pre‑built views.
    * **Filters**: open/adjust filter conditions for the whole list.
    * **Group By**: group results by any field.
-![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20Control%20Menu%20(hamburger).png?raw=true)
+
 ### B) Column Options Menu (three dots / right‑click column)
 
 1. On any column header, click the **three dots** **or** right‑click the header.
