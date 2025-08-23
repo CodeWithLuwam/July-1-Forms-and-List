@@ -120,8 +120,10 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 3. Use the arrows (or double‑click) to **add/remove fields**. Use **Up/Down** to **reorder**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20Layout%20Configuration.png?raw=true)
 4. **Dot‑Walking (to other tables):**
 
-   * In **Available**, some entries are **green with a plus (+)**. Click to **expand**.
-   * Click the middle **dot‑walk** button (tree/graph icon) to browse fields from the referenced table.
+   * In **Available**, some entries are **green with a plus (+)**. Click to **expand**. 
+   * Click the middle **dot‑walk** button (tree/graph icon) to browse fields from the referenced table. <br>
+ ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Dot%20Walking.png?raw=true) <br>
+![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Tree%20:%20Graph%20Icon%20is%20the%20Dot-Walk%20Button.png?raw=true) <br>
    * Example: **Caller → Email** to show the Caller’s email in the Incident list.
 
 ### ⚠️ Changing the Default View affects everyone
