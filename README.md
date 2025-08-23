@@ -56,7 +56,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
    * **View**: switch between pre‑built views.
    * **Filters**: open/adjust filter conditions for the whole list.
    * **Group By**: group results by any field.
-
+![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20Control%20Menu%20(hamburger).png?raw=true)
 ### B) Column Options Menu (three dots / right‑click column)
 
 1. On any column header, click the **three dots** **or** right‑click the header.
