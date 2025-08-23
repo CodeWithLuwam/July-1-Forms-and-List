@@ -86,7 +86,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 1. Open the **Filter**.
 2. **Field**: select **Caller**.
 3. **Operator**: choose an appropriate operator (e.g., `is`, `starts with`, or `contains`). <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Choose%20Operator.png?raw=true) <br>
-4. **Value**: type `Rob` (or the full name `Rob Phillips`).
+4. **Value**: type `Rob` (or the full name `Rob Phillips`). <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Value%20is%20User%20Rob.png?raw=true) <br>
 5. Click **Run**.
 
    * If a lookup pop‑out appears, select **Rob Phillips** to complete the filter.
