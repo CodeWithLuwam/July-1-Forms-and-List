@@ -136,7 +136,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 2. In the **View name** dropdown, choose **New…**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Create%20a%20new%20List%20View.png?raw=true)
 3. Name it (e.g., **`itil view`**) and configure the fields/order you need. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Configure%20ITIL%20List%20View.png?raw=true)
 4. Save. A small **dot** on the view icon indicates you’ve personalized it.
-5. You can **Reset to column defaults** later if needed.
+5.  **`itil view`** appears as a view option now. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/itil%20Appears%20as%20a%20View%20Option.png?raw=true)
 
 ### Assign a view to a role (System UI → Views)
 
