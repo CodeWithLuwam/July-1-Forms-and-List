@@ -73,7 +73,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 
 ## Filtering with the Condition Builder
 
-1. Click the **funnel icon** (Filter) to open the **Condition Builder**.
+1. Click the **funnel icon** (Filter) to open the **Condition Builder**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Funnel%20Icon%20Filter.png?raw=true) <br>
 2. Build conditions with three parts:
 
    * **Field** (column to filter on)
