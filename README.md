@@ -141,7 +141,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 ### Assign a view to a role (System UI → Views)
 
 1. Go to **All** → search **System UI → Views**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/System%20UI%20Views.png?raw=true)
-2. Find and open your view record (e.g., **`itil view`**).
+2. Find and open your view record (e.g., **`itil view`**). <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Open%20itil%20View%20Record.png?raw=true)
 3. In **Roles**, click the **edit/pencil** icon and **add** the role(s) who should see this view by default.
 4. Save.
 
