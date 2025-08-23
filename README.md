@@ -102,11 +102,11 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 
 ## Inline Editing (Single & Multi‑row)
 
-* **Single value:** Double‑click a field in the list to edit directly.
+* **Single value:** Double‑click a field in the list to edit directly. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Single%20Row%20Inline%20Editing.png?raw=true)
 * **Multiple rows (same column):**
 
   1. **Shift‑drag** to highlight cells in one column across multiple rows.
-  2. **Double‑click** one of the highlighted cells to set the same value for all.
+  2. **Double‑click** one of the highlighted cells to set the same value for all. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Multiple%20Rows%20Inline%20Editing%20.png?raw=true)
 
 ---
 
