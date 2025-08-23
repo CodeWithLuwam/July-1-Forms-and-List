@@ -95,7 +95,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 ### Example 2: Stale & Unresolved incidents (30+ days)
 
 1. Open the **Filter**.
-2. Add condition: **Updated** **is before** *(30 days ago)*.
+2. Add condition: **Updated** **is before** *(30 days ago)*. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Add%20condition%20-%20Updated%20is%20before%20(30%20days%20ago).png?raw=true) <br>
 3. Add condition: **State** **is not** `Resolved`.
 4. Click **Run** to find incidents that may be forgotten and still open.
 
