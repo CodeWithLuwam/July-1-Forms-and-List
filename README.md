@@ -112,12 +112,12 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 
 ## Configure → List Layout (Views & Dot‑Walking)
 
-1. On any column header, right‑click → **Configure → List Layout**.
-2. The List Layout shows:
+1. In a List view, on any column header, right‑click → **Configure → List Layout**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20View%20Column%20Header%20Right%20Click.png?raw=true)
+2. The List Layout, sometimes called List Layout Configuration shows:
 
    * **Available** (left): fields for the current table/form context.
    * **Selected** (right): fields currently shown in the view.
-3. Use the arrows (or double‑click) to **add/remove fields**. Use **Up/Down** to **reorder**.
+3. Use the arrows (or double‑click) to **add/remove fields**. Use **Up/Down** to **reorder**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20Layout%20Configuration.png?raw=true)
 4. **Dot‑Walking (to other tables):**
 
    * In **Available**, some entries are **green with a plus (+)**. Click to **expand**.
