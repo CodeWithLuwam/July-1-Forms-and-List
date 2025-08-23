@@ -90,6 +90,7 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 5. Click **Run**.
 
    * If a lookup pop‑out appears, select **Rob Phillips** to complete the filter.
+   * All the Records of Rob appear. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/All%20the%20Records%20of%20Rob.png?raw=true)
 
 ### Example 2: Stale & Unresolved incidents (30+ days)
 
