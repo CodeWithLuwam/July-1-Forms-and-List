@@ -132,8 +132,8 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 
 ### Create a new, safe custom view (e.g., `itil view`)
 
-1. **Configure → List Layout**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20View%20Configure%20List%20Layout.png?raw=true)
-2. In the **View name** dropdown, choose **New…**.
+1. Inside a List View, next to a column, click on the three verticle dots then **Configure → List Layout**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/List%20View%20Configure%20List%20Layout.png?raw=true)
+2. In the **View name** dropdown, choose **New…**. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Create%20a%20new%20List%20View.png?raw=true)
 3. Name it (e.g., **`itil view`**) and configure the fields/order you need.
 4. Save. A small **dot** on the view icon indicates you’ve personalized it.
 5. You can **Reset to column defaults** later if needed.
