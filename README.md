@@ -59,14 +59,15 @@ Understand the options available on a **list** page (not just *Incident*), inclu
 
 ### B) Column Options Menu (three dots / right‑click column)
 
-1. On any column header, click the **three dots** **or** right‑click the header.
+1. On any column header, click the **three dots** **or** right‑click the header. <br> ![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Column%20Option%20Menu.png?raw=true)
 2. Use column‑specific actions (e.g., **Sort A→Z**, **Sort Z→A**).
 
    * This menu is **column‑specific**, not list‑wide.
 
 ### C) Row/Record Context Menu (right‑click a row)
 
-1. Right‑click a **specific record/row** to see actions that apply to that record.
+1. Right‑click a **specific record/row** to see actions that apply to that record, this is called **Record Context Menu**. <br>
+![](https://github.com/CodeWithLuwam/July-1-Forms-and-List/blob/main/Images/Record%20Context%20Menu.png?raw=true)
 
 ---
 
